@@ -1,2 +1,2 @@
-1:Github
-2:git fetch --all et git push destination --all
+1:Github Desktop 
+2:Je fais un fork sur le depot source puis ensuite je push tous les commits dans mon dépot cible.
