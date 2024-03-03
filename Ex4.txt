@@ -1,0 +1,2 @@
+1:Github
+2:git fetch --all et git push destination --all
