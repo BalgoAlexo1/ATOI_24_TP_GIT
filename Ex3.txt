@@ -1,0 +1,9 @@
+Ex1:
+J'utilise Github Desktop pour réaliser l'exercice 3.
+1: Il faut merge la branche master à la branche color_support.
+2: Oui il faut résoudre les conflits manuellement
+3: On accepte les incommits changes sur chaque fichier où il y a des conflits.
+    c-a-d on accepte le code du fichier (où y'a conflit de) la branche master au fichier de la branche. 
+    Puis ensuite on clique sur resolve conflicts. 
+    Et le merge s'effectue lorsqu'il n'y a plus de conflits. 
+4: fait
